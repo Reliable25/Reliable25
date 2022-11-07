@@ -12,6 +12,8 @@
 
 - 🤝 I’m looking for help with **open source projects**
 
+- 💼 Job interests: Software Engineer, Front Engineer, or Backend Engineer (Intern or Junior level).
+
 - 📫 How to reach me **harogereadone@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
