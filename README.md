@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on **Angular project**
 
-- 🌱 I’m currently learning **C# and ASP.NET**
+- 🌱 I’m currently working on **C# and ASP.NET**
 
 - 🤝 I’m looking for help with **open source projects**
 
-- 💼 Job interests: Software Engineer, Front Engineer, or Backend Engineer (Intern or Junior level).
+- 💼 Job interests: Software Engineer, Front Engineer, or Backend Engineer.
 
 - 📫 How to reach me **harogereadone@gmail.com**
 
